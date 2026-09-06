@@ -3,12 +3,12 @@
   "bot-account": {
     "username": "SenpaiSoull",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
-    "ip": "gallaxymc.aternos.me",
-    "port": 13242,
-    "version": "1.21.1"
+    "ip": "orangemc.mcsh.io",
+    "port": 11373,
+    "version": "1.21.11"
   },
   "position": {
     "enabled": true,
